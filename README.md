@@ -6,5 +6,5 @@
 * Implemented Google Map APIs to render map and draw routes and to enable autocomplete for the location input
 
  ## Demo
-<image src="./demo/Home-map.gif" height="300"/>
-<image src="./demo/Location-search.gif" height="300"/>
+<image src="./demo/Home-map.gif" height="600"/>
+<image src="./demo/Location-search.gif" height="600"/>
